@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/MeghanaB98/MeghanaB98/blob/main/GIT.gif)
 <h1 align="center">Hi 👋, I'm Meghana Bollepalli</h1>
 <h3 align="center">Data-driven professional unraveling insights, transforming raw information into actionable solutions. Let's empower decision-making through the power of data.</h3>
 
