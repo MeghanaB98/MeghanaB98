@@ -6,6 +6,9 @@
 
 - 📫 How to reach me **meghanabollepalli@gmail.com**
 
+- 📄 Know about my experiences [https://github.com/MeghanaB98/MeghanaB98/blob/main/Meghana_Bollepalli.pdf](https://github.com/MeghanaB98/MeghanaB98/blob/main/Meghana_Bollepalli.pdf)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/meghana-bollepalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meghana-bollepalli/" height="30" width="40" /></a>
