@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **meghanabollepalli@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/MeghanaB98/MeghanaB98/blob/main/Meghana_Bollepalli.pdf](https://github.com/MeghanaB98/MeghanaB98/blob/main/Meghana_Bollepalli.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/MeghanaB98/MeghanaB98/blob/main/Meghana_Bollepalli.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
