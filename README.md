@@ -1,10 +1,10 @@
 ![Banner](https://github.com/MeghanaB98/MeghanaB98/blob/main/GIT.gif)
-<h1 align="center">Hi 👋, I'm Meghana Bollepalli</h1>
+<h1 align="center">Hi 👋, I'm Meghana B</h1>
 <h3 align="center">Data-driven professional unraveling insights, transforming raw information into actionable solutions. Let's empower decision-making through the power of data.</h3>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-- 📫 How to reach me **meghanabollepalli@gmail.com**
+- 📫 How to reach me **bmeghana798@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/MeghanaB98/MeghanaB98/blob/main/Meghana_Bollepalli.pdf)
 
