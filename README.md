@@ -4,7 +4,7 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-- 📫 How to reach me **bmeghana798@gmail.com**
+- 📫 How to reach me **meghana77b@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/MeghanaB98/MeghanaB98/blob/main/Meghana_Bollepalli.pdf)
 
