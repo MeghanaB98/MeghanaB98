@@ -19,7 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanab98&show_icons=true&locale=en" alt="meghanab98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghanab98&" alt="meghanab98" /></p>
 
 
 
